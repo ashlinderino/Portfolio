@@ -1,0 +1,48 @@
+/* Light Theme */
+body.light {
+    background: #ffffff;
+    color: #212529;
+    transition: all 0.3s ease;
+}
+
+/* Dark Theme */
+body.dark {
+    background: #0f172a;
+    color: #f8fafc;
+    transition: all 0.3s ease;
+}
+
+/* Cards */
+body.dark .card {
+    background: #1e293b;
+    color: white;
+}
+
+body.dark .navbar-custom {
+    background: rgba(15,23,42,.9);
+}
+
+body.dark .contact-form {
+    background: #1e293b;
+}
+
+body.dark .form-control {
+    background: #334155;
+    color: white;
+    border: none;
+}
+
+body.dark .form-control::placeholder {
+    color: #cbd5e1;
+}
+
+body.dark #skills,
+body.dark #projects,
+body.dark #contact {
+    background: #0f172a;
+}
+
+body.dark .timeline-card {
+    background: #1e293b;
+    color: white;
+}

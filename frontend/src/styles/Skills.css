@@ -1,0 +1,60 @@
+#skills{
+    background:#f8fafc;
+}
+
+.skill-card{
+
+    border:none;
+
+    border-radius:18px;
+
+    transition:.4s;
+
+    padding:25px;
+
+}
+
+.skill-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 15px 35px rgba(0,0,0,.15);
+
+}
+
+.skill-icon{
+
+    font-size:45px;
+
+    color:#2563eb;
+
+    margin-bottom:15px;
+
+}
+
+.progress{
+
+    height:12px;
+
+    border-radius:20px;
+
+}
+
+.progress-bar{
+
+    background:linear-gradient(90deg,#2563eb,#38bdf8);
+
+    border-radius:20px;
+
+    animation:grow 2s;
+}
+
+@keyframes grow{
+
+from{
+
+width:0;
+
+}
+
+}

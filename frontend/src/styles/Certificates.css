@@ -1,0 +1,30 @@
+/* Certificates Section */
+body.dark #certificates {
+    background: #0f172a !important;
+}
+
+body.dark .certificate-card {
+    background: #1e293b !important;
+    color: white !important;
+}
+
+body.dark .certificate-card .card-body {
+    background: #1e293b !important;
+    color: white !important;
+}
+
+body.dark .certificate-title {
+    color: white !important;
+}
+
+body.dark .certificate-issuer {
+    color: #60a5fa !important;
+}
+
+body.dark .certificate-date {
+    color: #cbd5e1 !important;
+}
+
+body.dark .card-img-top {
+    border-bottom: 1px solid #334155;
+}

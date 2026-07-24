@@ -1,0 +1,36 @@
+.navbar-custom{
+    position:fixed;
+    top:0;
+    width:100%;
+    z-index:1000;
+
+    background:rgba(15,23,42,.6);
+
+    backdrop-filter:blur(15px);
+
+    transition:.4s;
+}
+
+.navbar-brand{
+    color:white!important;
+    font-size:28px;
+    font-weight:700;
+}
+
+.nav-link{
+    color:white!important;
+    margin-left:18px;
+    font-weight:500;
+}
+
+.nav-link:hover{
+    color:#38bdf8!important;
+}
+
+.navbar-toggler{
+    border:none;
+}
+
+.navbar-toggler:focus{
+    box-shadow:none;
+}
