@@ -115,7 +115,6 @@ MEDIA_ROOT = BASE_DIR / "media"
 
 # CORS
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",
     "https://your-frontend-name.onrender.com",
 ]
 
