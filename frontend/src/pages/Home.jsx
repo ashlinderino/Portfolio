@@ -19,7 +19,7 @@ function Home() {
       <Experience/>
       <Certificates/>
       <Contact/>
-      <Contact />
+     
 <Footer />
     </>
   );
