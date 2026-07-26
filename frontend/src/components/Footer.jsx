@@ -14,7 +14,7 @@ function Footer() {
         <div className="mb-3">
 
           <a
-            href="https://github.com/yourgithub"
+            href="https://github.com/ashlinderino"
             className="text-white mx-3 fs-4"
             target="_blank"
             rel="noreferrer"
@@ -23,7 +23,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://linkedin.com/in/yourlinkedin"
+            href="https://www.linkedin.com/in/ashlin-derino-r-598a10260/"
             className="text-white mx-3 fs-4"
             target="_blank"
             rel="noreferrer"
@@ -32,7 +32,7 @@ function Footer() {
           </a>
 
           <a
-            href="mailto:youremail@gmail.com"
+            href="ashlinderino30240@gmail.com"
             className="text-white mx-3 fs-4"
           >
             <FaEnvelope />
