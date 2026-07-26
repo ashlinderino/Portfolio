@@ -53,7 +53,7 @@ projects.map(project=>(
 <div className="project-image">
 
 <img
-src={project.image}
+src="/projects/project.png"
 alt={project.title}
 />
 

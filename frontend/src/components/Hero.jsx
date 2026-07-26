@@ -59,7 +59,7 @@ return(
 <div className="hero-buttons">
 
 <a
-href={profile.resume}
+href="/resume/ASHLINDERINO_R_RESUME.pdf"
 className="btn btn-light"
 target="_blank"
 rel="noreferrer"
@@ -114,7 +114,7 @@ href={`mailto:${profile.email}`}>
 <div className="col-lg-5 text-center hero-image">
 
 <img
-src={profile.profile_image}
+src="/profile/me.jpeg"
 alt={profile.full_name}
 />
 
